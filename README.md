@@ -78,7 +78,7 @@ This website is an e-commerce store called DSTORE SALES. It offers a variety of 
 ## Getting Started
 To get started with the website, you will need to first clone this repository:
 
- ``` git clone https://github.com/your-username/ecommerce-reactjs.git ``` 
+ ``` git clone https://github.com/prp0076/Dstore-Ecommerce.git ``` 
  
  
 Once you have cloned the repository, navigate to the project directory and install the dependencies:
