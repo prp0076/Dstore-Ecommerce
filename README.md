@@ -36,11 +36,12 @@ This e-commerce website has the designing & development following features:
 
 ### Team Members
 
-- Designer: Sachin Pandey 
--  GitHub URL: https://github.com/sachin12031999
-
 - Developer: Pushpraj Paroha 
 - GitHub URL: https://github.com/prp0076
+- Designer: Sachin Pandey 
+- GitHub URL: https://github.com/sachin12031999
+
+
 
 - Github gnerated page : [visit now](https://tangerine-fox-825b79.netlify.app/)
 - Live project URL : Avilable soon
