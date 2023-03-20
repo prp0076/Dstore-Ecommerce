@@ -54,9 +54,25 @@ This website is an e-commerce store called DSTORE SALES. It offers a variety of 
 ### For more information about Event, please [visit website](https://tangerine-fox-825b79.netlify.app)
 
 ## Screenshots
+![sign up page](https://user-images.githubusercontent.com/116311633/226443231-d15b6d9b-bd13-4af8-b4c3-70892bef0c19.png)
 
-![pc image](screenshort/pc.jpg) ![mobile image](screenshort/mobile.jpg) ![tablate image](screenshort/tab.png)
 
+![login page](https://user-images.githubusercontent.com/116311633/226443262-5dc54adf-5d84-4087-87d1-fe2c77020f28.png)
+
+
+![home page](https://user-images.githubusercontent.com/116311633/226443247-a0c0f3f2-f47f-47c5-906f-3f4fba5713da.png)
+
+
+![choose by categories](https://user-images.githubusercontent.com/116311633/226443244-6baee972-4dab-4faf-a506-8de755d38908.png)
+
+
+![search page](https://user-images.githubusercontent.com/116311633/226443274-42d00473-6929-4d86-a80a-4032036e6021.png)
+
+
+![cart section](https://user-images.githubusercontent.com/116311633/226443237-ce07c12f-277d-4229-9232-23be413cde58.png)
+
+
+![payment or checkout page](https://user-images.githubusercontent.com/116311633/226443269-d16f8bb9-708e-4a60-bdfe-b56899e4a55c.png)
 
 
 ## Getting Started
@@ -83,5 +99,6 @@ This will start the development server at  ``` http://localhost:3000/  ``` , all
 
  ``` git checkout -b my-feature-branch ``` 
 Once you have made your changes, push them to your fork and create a pull request. Your pull request will be reviewed and merged if it meets the project standards.
+
 
 
