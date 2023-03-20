@@ -55,20 +55,22 @@ This website is an e-commerce store called DSTORE SALES. It offers a variety of 
 
 ## Screenshots
 
+### Sign Up 
 ![sign up page](https://user-images.githubusercontent.com/116311633/226447710-2beb870e-788f-4563-a47a-01a99fc63301.png)
 
+### Login 
 ![login page](https://user-images.githubusercontent.com/116311633/226447700-5e85f99f-7382-4083-89f8-4b7053f58714.png)
-
+### Home
 ![home page](https://user-images.githubusercontent.com/116311633/226447692-6e686387-cf08-4a0f-830a-c25917a449e5.png)
-
+### Category 
 ![choose by categories](https://user-images.githubusercontent.com/116311633/226447686-d65b376c-f0e4-46ce-b00d-ebf70e7bd05a.png)
-
+### Search list
 ![search page](https://user-images.githubusercontent.com/116311633/226447707-8f8db7de-1399-4391-bce2-e0310d089047.png)
 
-
+### Cart 
 ![cart section](https://user-images.githubusercontent.com/116311633/226447678-88173b1a-40ba-4a48-97b2-758887025952.png)
 
-
+### Checkout
 ![payment or checkout page](https://user-images.githubusercontent.com/116311633/226447704-e7a34e05-65d4-433d-902f-0d1dff5cbaf0.png)
 
 
