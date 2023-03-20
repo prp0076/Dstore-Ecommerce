@@ -13,7 +13,7 @@ This e-commerce website has the tech features:
 - Technologies Used
 
 
-This e-commerce website has the designing features:
+This e-commerce website has the designing & development features:
 
 - Responsive design: Ensure that your website is optimized for viewing on a variety of devices, including desktops, laptops, tablets, and smartphones.
 - Analytics: Implement an analytics system that allows you to track website traffic, user behavior, and other key metrics.
