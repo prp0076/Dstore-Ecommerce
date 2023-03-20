@@ -83,5 +83,4 @@ This will start the development server at  ``` http://localhost:3000/  ``` , all
  ``` git checkout -b my-feature-branch ``` 
 Once you have made your changes, push them to your fork and create a pull request. Your pull request will be reviewed and merged if it meets the project standards.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+
