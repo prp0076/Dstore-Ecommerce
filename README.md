@@ -4,7 +4,7 @@
 - This is a simple ecommerce website built using ReactJS. The website has been designed to showcase various products, allowing customers to browse through them and purchase them online.
 
 ## Features
-This e-commerce website has the tech features:
+This e-commerce website has the tech following features:
 - Product listings
 - Product details page
 - Shopping cart
@@ -13,7 +13,7 @@ This e-commerce website has the tech features:
 - Technologies Used
 
 
-This e-commerce website has the designing & development features:
+This e-commerce website has the designing & development following features:
 
 - Responsive design: Ensure that your website is optimized for viewing on a variety of devices, including desktops, laptops, tablets, and smartphones.
 - Analytics: Implement an analytics system that allows you to track website traffic, user behavior, and other key metrics.
