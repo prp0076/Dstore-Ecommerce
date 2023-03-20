@@ -54,7 +54,7 @@ This website is an e-commerce store called DSTORE SALES. It offers a variety of 
 
 ## Screenshots
 
-![pc image](screenshots/pc.jpg) ![mobile image](screenshots/mobilephone.jpg) ![tablate image](screenshots/tablate.jpg)
+![pc image](screenshot/pc.jpg) ![mobile image](screenshot/mobilephone.jpg) ![tablate image](screenshot/tablate.jpg)
 
 
 
