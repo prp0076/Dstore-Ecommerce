@@ -31,7 +31,9 @@ This e-commerce website has the designing & development following features:
 - HTML
 - CSS
 - JavaScript
-- Backend Technology
+- Strapi
+- Stripe
+- Auth0
 
 
 ### Team Members
