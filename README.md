@@ -36,7 +36,7 @@ This e-commerce website has the designing & development following features:
 - Auth0
 
 
-### Team Members
+### Team
 
 - Developer: Pushpraj Paroha 
 - GitHub URL: https://github.com/prp0076
@@ -45,8 +45,7 @@ This e-commerce website has the designing & development following features:
 
 
 
-- Github gnerated page : [visit now](https://tangerine-fox-825b79.netlify.app/)
-- Live project URL : Avilable soon
+- Github generated page : [visit now](https://tangerine-fox-825b79.netlify.app/)
 
 
 ## description 
