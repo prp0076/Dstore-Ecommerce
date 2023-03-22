@@ -98,7 +98,7 @@ This will start the development server at  ``` http://localhost:3000/  ``` , all
 
 
 ## Contributing
-##### We welcome contributions to this project! If you'd like to contribute, please follow these steps:
+#### We welcome contributions to this project! If you'd like to contribute, please follow these steps:
 * Fork the repository to create your own copy of the project.
 * Create a new branch in your fork to make your changes.
 * Submit a pull request from your branch to the original repository, and we'll review your changes.
