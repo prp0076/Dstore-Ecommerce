@@ -98,10 +98,15 @@ This will start the development server at  ``` http://localhost:3000/  ``` , all
 
 
 ## Contributing
-##### Contributions to this project are welcome. To contribute, please fork the repository and create a new branch for your changes:
+##### We welcome contributions to this project! If you'd like to contribute, please follow these steps:
 
- ``` git checkout -b my-feature-branch ``` 
-Once you have made your changes, push them to your fork and create a pull request. Your pull request will be reviewed and merged if it meets the project standards.
+####### Fork the repository to create your own copy of the project.
+####### Create a new branch in your fork to make your changes.
+####### Submit a pull request from your branch to the original repository, and we'll review your changes.
+
+Thank you :grinning: for your interest in contributing to our project!
+
+
 
 
 
