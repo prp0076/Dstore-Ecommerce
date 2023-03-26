@@ -1,7 +1,7 @@
 # Dstore Ecommerce webApp
 - Dstore is an online marketplace that offers a wide range of high-quality products from trusted brands and independent sellers. Our mission is to provide customers with a convenient and enjoyable shopping experience, while offering competitive pricing and exceptional customer service.
 
-- This is a simple ecommerce website built using ReactJS. The website has been designed to showcase various products, allowing customers to browse through them and purchase them online.
+- This is a fully functional ecommerce website built using ReactJS. The website has been designed to showcase various products, allowing customers to browse through them and purchase them online.
 
 ## Features
 This e-commerce website has the tech following features:
