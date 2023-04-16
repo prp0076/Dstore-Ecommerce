@@ -52,7 +52,7 @@ This e-commerce website has the designing & development following features:
 This website is an e-commerce store called DSTORE SALES. It offers a variety of products such as headphones, smart watches, Bluetooth speakers, wireless earbuds, and home theater projectors. It also provides customers with the latest updates and offers through its newsletter subscription. 
 
 
-### For more information please [visit website](https://tangerine-fox-825b79.netlify.app)
+### For more information please [visit website](https://dstore-ecommerce-fox-825b79.netlify.app/)
 
 ## Screenshots
 
